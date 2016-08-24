@@ -4,7 +4,13 @@
     "repositoryName": "maurodx.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Tinyware",
+    "description": "My place for random thoughts",
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
